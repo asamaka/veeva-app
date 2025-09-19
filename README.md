@@ -10,7 +10,6 @@ Veeva App is designed to be an intelligent assistant that helps users create, op
 
 ### Vercel Project
 - **Project Name:** `veeva-app`
-- **Production URL:** `https://veeva-app.vercel.app`
 - **Status:** ✅ Active and deployed
 
 ### Domain Configuration
